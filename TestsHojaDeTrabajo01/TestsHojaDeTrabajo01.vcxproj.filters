@@ -4,6 +4,9 @@
     <ClCompile Include="Ejercicio01Tests.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="pch.cpp" />
+    <ClCompile Include="Ejercicio02Tests.cpp" />
+    <ClCompile Include="Ejercicio03Tests.cpp" />
+    <ClCompile Include="Ejercicio04Tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h" />
